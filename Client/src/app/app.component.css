@@ -1,0 +1,7 @@
+.mat-toolbar {
+    background-image: linear-gradient(to right,#e052a0,#f15c41)!important;
+    text-transform: uppercase;
+}
+h1 {
+    margin: 0 auto;
+}
